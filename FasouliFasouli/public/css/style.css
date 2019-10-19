@@ -1,0 +1,23 @@
+.svg path {
+  fill: #9cde9f;
+}
+
+.svg{
+  width: 25%;
+}
+
+.special{
+  width: 28%;
+}
+
+.btn-outline-primary{
+  border-color: #9cde9f;
+  background-color: #9cde9f;
+  color: #fff;
+}
+
+.btn-outline-primary:hover{
+  background-color: #fff;
+  border-color: #9cde9f;
+  color:  #9cde9f;
+}
