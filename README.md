@@ -5,6 +5,7 @@
 ### PROBLEM
 
 ### OUR SOLUTION - HOW IT WORKS
+![logo_full](/Material/how.png)
 
 ### SETUP INFORMATION
 
@@ -32,5 +33,5 @@ DB_PASSWORD= <br>
 * [ROUTES/API](https://github.com/BocHackathon-Fintech-3/fasoulifasouli/tree/master/FasouliFasouli/routes)
 * [CSS/JS/IMGS](https://github.com/BocHackathon-Fintech-3/fasoulifasouli/tree/master/FasouliFasouli/public) 
 
-
-
+#### INSTALATION
+Install like everyother Laravel installation/setup. Nothing extra has been added. It is a simple MVC framework.
