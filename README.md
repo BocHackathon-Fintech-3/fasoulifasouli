@@ -14,6 +14,9 @@ Source: https://techsgood.org/the-power-of-micro-donations-3f7d917b013c
 ### OUR SOLUTION - HOW IT WORKS
 ![logo_full](/Material/how.png)
 
+### INTELLIGENT MICRO-DONATION ALGORITHMS
+![logo_full](/Material/algorithms.png)
+
 ### SETUP INFORMATION
 
 #### TECHNOLOGY STACK
